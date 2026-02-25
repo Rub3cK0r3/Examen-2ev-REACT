@@ -1,4 +1,4 @@
-Examen Segunda Evaluación – React
+#Examen Segunda Evaluación – React
 
 Este repositorio contiene el examen de React de la segunda evaluación, desarrollado de manera individual durante varias horas.
 
